@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://images.uncyclomedia.co/inciclopedia/es/9/98/Minecraft-hero-og.c5517b7973e1.jpg);
+    background-size: cover;
+    text-align: center;
+}
+#myCanvas{
+    border-width: 10px;
+    background-size: cover;
+    background-image: url(fondo.png);
+    border-style: solid;
+    border-color: blue;
+}
+h2{
+    border-radius: 10px;
+    width: 200px;
+    padding: 5px;
+}
+h3{
+    border-radius: 10px;
+    display: inline-block;
+}
+span{
+    color: black;
+}
+#head_info{
+width: 600px;
+border-radius: 10px;
+margin-bottom: 10px;
+}
